@@ -1,0 +1,22 @@
+what is the Truffle ?
+ Truffle Suite is a development environment based on Ethereum
+ blockchain, used to develop DApps .
+  Truffle is a one-stop solution for building DApps.
+  compiling Contracts 
+  Deploying Contracts
+  Injecting it into a web app
+  Creating front-end for DApps and testing.
+
+
+what is Ganache ?
+ Ganache is a personal Ethereum Blockchain used to test smart contracts where youn can deploy contracts, develop applications, run tests and perform other tasks without any cost.
+
+
+Ques 3.
+ Installation of Truffle:
+You can install Truffle  Ethereum using the Node packege manager (npm).
+First, you need to set up npm on your computer, and then install Truffle.
+  To do so, you need to open the terminal and type the following:
+   npm install -g truffle .
+Current version Truffle 5.9.0!
+
